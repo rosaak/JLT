@@ -1,0 +1,16 @@
+#SampleID	BarcodeSequence	LinkerPrimerSequence	InputFileName	Treatment	Replicate	Description
+HFD.1	GAGGGC		/anas/roshan-current/i2mc/burcelin/miseq/testV/merged_data/HFD_1.fasta	HFD	1	desc
+HFD.2	TACAAG		/anas/roshan-current/i2mc/burcelin/miseq/testV/merged_data/HFD_2.fasta	HFD	2	desc
+HFD.3	CGTTTC		/anas/roshan-current/i2mc/burcelin/miseq/testV/merged_data/HFD_3.fasta	HFD	3	desc
+HFD.4	CCCGTT		/anas/roshan-current/i2mc/burcelin/miseq/testV/merged_data/HFD_4.fasta	HFD	4	desc
+HFD.5	GGTCAC		/anas/roshan-current/i2mc/burcelin/miseq/testV/merged_data/HFD_5.fasta	HFD	5	desc
+HFDS.1	AGTGCT		/anas/roshan-current/i2mc/burcelin/miseq/testV/merged_data/HFDS_1.fasta	HFDS	1	desc
+HFDS.2	GACATC		/anas/roshan-current/i2mc/burcelin/miseq/testV/merged_data/HFDS_2.fasta	HFDS	2	desc
+HFDS.3	CCCGGC		/anas/roshan-current/i2mc/burcelin/miseq/testV/merged_data/HFDS_3.fasta	HFDS	3	desc
+HFDS.4	CTCGGT		/anas/roshan-current/i2mc/burcelin/miseq/testV/merged_data/HFDS_4.fasta	HFDS	4	desc
+HFDS.5	TCGAAC		/anas/roshan-current/i2mc/burcelin/miseq/testV/merged_data/HFDS_5.fasta	HFDS	5	desc
+NC.1	GGCCTC		/anas/roshan-current/i2mc/burcelin/miseq/testV/merged_data/NC_1.fasta	NC	1	desc
+NC.2	ATCGGG		/anas/roshan-current/i2mc/burcelin/miseq/testV/merged_data/NC_2.fasta	NC	2	desc
+NC.3	AGTCGG		/anas/roshan-current/i2mc/burcelin/miseq/testV/merged_data/NC_3.fasta	NC	3	desc
+NC.4	TACTCA		/anas/roshan-current/i2mc/burcelin/miseq/testV/merged_data/NC_4.fasta	NC	4	desc
+NC.5	ATAACG		/anas/roshan-current/i2mc/burcelin/miseq/testV/merged_data/NC_5.fasta	NC	5	desc
